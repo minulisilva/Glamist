@@ -7,7 +7,7 @@ A complete web-based solution to elevate salon operations and customer satisfact
 ## 🌟 Overview
 
 **Glamist** is a MERN-stack salon management system.
-It simplifies and digitizes salon workflows by offering centralized modules for:
+It simplifies and digitizes salon workflows by offering centralized modules for :
 
 - 📅 Appointment Scheduling  
 - 📸 Lookbook & Portfolio Management  
