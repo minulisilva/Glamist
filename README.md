@@ -114,7 +114,7 @@ Test cases are documented in the official project report.
 
 | Name                | Modules Contributed                                              |
 |---------------------|------------------------------------------------------------------|
-| **Dasuni Samaraweera**      | Appointments, Lookbook, Mood Boards, Chatbot, About Us     |
+| **Dasuni Samaraweera**      | Appointments, Lookbook, Mood Boards, Chatbot, About Us   |
 | **Ayodya Gunathilake**      | Staff & Department Management, Orders                     |
 | **Ushani Silva**            | Inventory Management                                       |
 | **Minuli De Silva**         | Salary Management                                          |
